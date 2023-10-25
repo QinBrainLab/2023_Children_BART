@@ -1,0 +1,855 @@
+
+*****************************************
+The pipeline PIPE is now being processed.
+Started on 21-Sep-2018 16:41:14
+user: iCAN, host: cu69, system: unix
+*****************************************
+21-Sep-2018 16:41:15 Sub_BART_1   submitted (1 run / 0 fail / 0 done / 342 left)
+21-Sep-2018 16:41:15 Sub_BART_2   submitted (2 run / 0 fail / 0 done / 341 left)
+21-Sep-2018 16:41:15 Sub_BART_3   submitted (3 run / 0 fail / 0 done / 340 left)
+21-Sep-2018 16:41:15 Sub_BART_4   submitted (4 run / 0 fail / 0 done / 339 left)
+21-Sep-2018 16:41:15 Sub_BART_5   submitted (5 run / 0 fail / 0 done / 338 left)
+21-Sep-2018 16:41:15 Sub_BART_6   submitted (6 run / 0 fail / 0 done / 337 left)
+21-Sep-2018 16:41:15 Sub_BART_7   submitted (7 run / 0 fail / 0 done / 336 left)
+21-Sep-2018 16:41:15 Sub_BART_8   submitted (8 run / 0 fail / 0 done / 335 left)
+21-Sep-2018 16:41:15 Sub_BART_9   submitted (9 run / 0 fail / 0 done / 334 left)
+21-Sep-2018 16:41:15 Sub_BART_10  submitted (10 run / 0 fail / 0 done / 333 left)
+.
+.........................
+21-Sep-2018 17:18:38 Sub_BART_6   completed (9 run / 0 fail / 1 done / 333 left)
+21-Sep-2018 17:18:38 Sub_BART_7   completed (8 run / 0 fail / 2 done / 333 left)
+21-Sep-2018 17:18:38 Sub_BART_11  submitted (9 run / 0 fail / 2 done / 332 left)
+21-Sep-2018 17:18:38 Sub_BART_12  submitted (10 run / 0 fail / 2 done / 331 left)
+.
+21-Sep-2018 17:20:07 Sub_BART_5   completed (9 run / 0 fail / 3 done / 331 left)
+21-Sep-2018 17:20:07 Sub_BART_13  submitted (10 run / 0 fail / 3 done / 330 left)
+.
+21-Sep-2018 17:22:41 Sub_BART_1   completed (9 run / 0 fail / 4 done / 330 left)
+21-Sep-2018 17:22:41 Sub_BART_14  submitted (10 run / 0 fail / 4 done / 329 left)
+21-Sep-2018 17:23:34 Sub_BART_4   completed (9 run / 0 fail / 5 done / 329 left)
+21-Sep-2018 17:23:34 Sub_BART_15  submitted (10 run / 0 fail / 5 done / 328 left)
+21-Sep-2018 17:23:56 Sub_BART_3   completed (9 run / 0 fail / 6 done / 328 left)
+21-Sep-2018 17:23:56 Sub_BART_16  submitted (10 run / 0 fail / 6 done / 327 left)
+21-Sep-2018 17:24:17 Sub_BART_10  completed (9 run / 0 fail / 7 done / 327 left)
+21-Sep-2018 17:24:17 Sub_BART_17  submitted (10 run / 0 fail / 7 done / 326 left)
+21-Sep-2018 17:24:39 Sub_BART_9   completed (9 run / 0 fail / 8 done / 326 left)
+21-Sep-2018 17:24:39 Sub_BART_18  submitted (10 run / 0 fail / 8 done / 325 left)
+21-Sep-2018 17:26:46 Sub_BART_8   completed (9 run / 0 fail / 9 done / 325 left)
+21-Sep-2018 17:26:46 Sub_BART_19  submitted (10 run / 0 fail / 9 done / 324 left)
+.
+.
+21-Sep-2018 17:30:08 Sub_BART_2   completed (9 run / 0 fail / 10 done / 324 left)
+21-Sep-2018 17:30:08 Sub_BART_20  submitted (10 run / 0 fail / 10 done / 323 left)
+.
+.......
+21-Sep-2018 17:40:59 Sub_BART_12  completed (9 run / 0 fail / 11 done / 323 left)
+21-Sep-2018 17:40:59 Sub_BART_21  submitted (10 run / 0 fail / 11 done / 322 left)
+21-Sep-2018 17:41:11 Sub_BART_16  completed (9 run / 0 fail / 12 done / 322 left)
+21-Sep-2018 17:41:11 Sub_BART_17  completed (8 run / 0 fail / 13 done / 322 left)
+21-Sep-2018 17:41:11 Sub_BART_22  submitted (9 run / 0 fail / 13 done / 321 left)
+21-Sep-2018 17:41:11 Sub_BART_23  submitted (10 run / 0 fail / 13 done / 320 left)
+21-Sep-2018 17:41:21 Sub_BART_13  completed (9 run / 0 fail / 14 done / 320 left)
+21-Sep-2018 17:41:21 Sub_BART_24  submitted (10 run / 0 fail / 14 done / 319 left)
+.
+21-Sep-2018 17:43:59 Sub_BART_14  completed (9 run / 0 fail / 15 done / 319 left)
+21-Sep-2018 17:43:59 Sub_BART_15  completed (8 run / 0 fail / 16 done / 319 left)
+21-Sep-2018 17:43:59 Sub_BART_25  submitted (9 run / 0 fail / 16 done / 318 left)
+21-Sep-2018 17:43:59 Sub_BART_26  submitted (10 run / 0 fail / 16 done / 317 left)
+21-Sep-2018 17:44:09 Sub_BART_11  completed (9 run / 0 fail / 17 done / 317 left)
+21-Sep-2018 17:44:09 Sub_BART_27  submitted (10 run / 0 fail / 17 done / 316 left)
+21-Sep-2018 17:45:13 Sub_BART_18  completed (9 run / 0 fail / 18 done / 316 left)
+21-Sep-2018 17:45:13 Sub_BART_28  submitted (10 run / 0 fail / 18 done / 315 left)
+.
+21-Sep-2018 17:47:57 Sub_BART_19  completed (9 run / 0 fail / 19 done / 315 left)
+21-Sep-2018 17:47:57 Sub_BART_29  submitted (10 run / 0 fail / 19 done / 314 left)
+...
+21-Sep-2018 17:54:41 Sub_BART_20  completed (9 run / 0 fail / 20 done / 314 left)
+21-Sep-2018 17:54:41 Sub_BART_30  submitted (10 run / 0 fail / 20 done / 313 left)
+..........................................
+21-Sep-2018 18:48:49 Sub_BART_25  completed (9 run / 0 fail / 21 done / 313 left)
+21-Sep-2018 18:48:49 Sub_BART_31  submitted (10 run / 0 fail / 21 done / 312 left)
+.............
+21-Sep-2018 19:10:10 Sub_BART_31  completed (9 run / 0 fail / 22 done / 312 left)
+21-Sep-2018 19:10:10 Sub_BART_32  submitted (10 run / 0 fail / 22 done / 311 left)
+.............
+21-Sep-2018 19:28:37 Sub_BART_32  completed (9 run / 0 fail / 23 done / 311 left)
+21-Sep-2018 19:28:37 Sub_BART_33  submitted (10 run / 0 fail / 23 done / 310 left)
+..........
+21-Sep-2018 19:44:04 Sub_BART_33  completed (9 run / 0 fail / 24 done / 310 left)
+21-Sep-2018 19:44:04 Sub_BART_34  submitted (10 run / 0 fail / 24 done / 309 left)
+..........
+21-Sep-2018 20:03:04 Sub_BART_34  completed (9 run / 0 fail / 25 done / 309 left)
+21-Sep-2018 20:03:04 Sub_BART_35  submitted (10 run / 0 fail / 25 done / 308 left)
+.............
+21-Sep-2018 20:22:39 Sub_BART_35  completed (9 run / 0 fail / 26 done / 308 left)
+21-Sep-2018 20:22:39 Sub_BART_36  submitted (10 run / 0 fail / 26 done / 307 left)
+...........
+21-Sep-2018 20:38:32 Sub_BART_36  completed (9 run / 0 fail / 27 done / 307 left)
+21-Sep-2018 20:38:32 Sub_BART_37  submitted (10 run / 0 fail / 27 done / 306 left)
+...........
+21-Sep-2018 20:54:21 Sub_BART_37  completed (9 run / 0 fail / 28 done / 306 left)
+21-Sep-2018 20:54:21 Sub_BART_38  submitted (10 run / 0 fail / 28 done / 305 left)
+......
+...
+21-Sep-2018 21:09:08 Sub_BART_38  completed (9 run / 0 fail / 29 done / 305 left)
+21-Sep-2018 21:09:08 Sub_BART_39  submitted (10 run / 0 fail / 29 done / 304 left)
+..........
+21-Sep-2018 21:25:13 Sub_BART_39  completed (9 run / 0 fail / 30 done / 304 left)
+21-Sep-2018 21:25:13 Sub_BART_40  submitted (10 run / 0 fail / 30 done / 303 left)
+........
+21-Sep-2018 21:38:45 Sub_BART_40  completed (9 run / 0 fail / 31 done / 303 left)
+21-Sep-2018 21:38:45 Sub_BART_41  submitted (10 run / 0 fail / 31 done / 302 left)
+.....
+21-Sep-2018 21:46:12 Sub_BART_28  completed (9 run / 0 fail / 32 done / 302 left)
+21-Sep-2018 21:46:12 Sub_BART_42  submitted (10 run / 0 fail / 32 done / 301 left)
+..
+21-Sep-2018 21:50:19 Sub_BART_41  completed (9 run / 0 fail / 33 done / 301 left)
+21-Sep-2018 21:50:19 Sub_BART_43  submitted (10 run / 0 fail / 33 done / 300 left)
+.....
+21-Sep-2018 21:57:44 Sub_BART_42  completed (9 run / 0 fail / 34 done / 300 left)
+21-Sep-2018 21:57:44 Sub_BART_44  submitted (10 run / 0 fail / 34 done / 299 left)
+..
+21-Sep-2018 22:01:07 Sub_BART_43  completed (9 run / 0 fail / 35 done / 299 left)
+21-Sep-2018 22:01:07 Sub_BART_45  submitted (10 run / 0 fail / 35 done / 298 left)
+.
+...
+21-Sep-2018 22:07:33 Sub_BART_44  completed (9 run / 0 fail / 36 done / 298 left)
+21-Sep-2018 22:07:33 Sub_BART_46  submitted (10 run / 0 fail / 36 done / 297 left)
+.
+..
+21-Sep-2018 22:12:20 Sub_BART_45  completed (9 run / 0 fail / 37 done / 297 left)
+21-Sep-2018 22:12:20 Sub_BART_47  submitted (10 run / 0 fail / 37 done / 296 left)
+..
+21-Sep-2018 22:16:42 Sub_BART_46  completed (9 run / 0 fail / 38 done / 296 left)
+21-Sep-2018 22:16:42 Sub_BART_48  submitted (10 run / 0 fail / 38 done / 295 left)
+..
+21-Sep-2018 22:20:58 Sub_BART_47  completed (9 run / 0 fail / 39 done / 295 left)
+21-Sep-2018 22:20:58 Sub_BART_49  submitted (10 run / 0 fail / 39 done / 294 left)
+.
+21-Sep-2018 22:23:47 Sub_BART_48  completed (9 run / 0 fail / 40 done / 294 left)
+21-Sep-2018 22:23:47 Sub_BART_50  submitted (10 run / 0 fail / 40 done / 293 left)
+.
+21-Sep-2018 22:25:36 Sub_BART_22  completed (9 run / 0 fail / 41 done / 293 left)
+21-Sep-2018 22:25:36 Sub_BART_51  submitted (10 run / 0 fail / 41 done / 292 left)
+21-Sep-2018 22:26:35 Sub_BART_49  completed (9 run / 0 fail / 42 done / 292 left)
+21-Sep-2018 22:26:35 Sub_BART_52  submitted (10 run / 0 fail / 42 done / 291 left)
+21-Sep-2018 22:26:46 Sub_BART_21  completed (9 run / 0 fail / 43 done / 291 left)
+21-Sep-2018 22:26:46 Sub_BART_23  completed (8 run / 0 fail / 44 done / 291 left)
+21-Sep-2018 22:26:46 Sub_BART_30  completed (7 run / 0 fail / 45 done / 291 left)
+21-Sep-2018 22:26:46 Sub_BART_53  submitted (8 run / 0 fail / 45 done / 290 left)
+21-Sep-2018 22:26:46 Sub_BART_54  submitted (9 run / 0 fail / 45 done / 289 left)
+21-Sep-2018 22:26:46 Sub_BART_55  submitted (10 run / 0 fail / 45 done / 288 left)
+21-Sep-2018 22:26:57 Sub_BART_27  completed (9 run / 0 fail / 46 done / 288 left)
+21-Sep-2018 22:26:57 Sub_BART_56  submitted (10 run / 0 fail / 46 done / 287 left)
+.
+21-Sep-2018 22:28:34 Sub_BART_50  completed (9 run / 0 fail / 47 done / 287 left)
+21-Sep-2018 22:28:34 Sub_BART_57  submitted (10 run / 0 fail / 47 done / 286 left)
+..
+21-Sep-2018 22:32:56 Sub_BART_51  completed (9 run / 0 fail / 48 done / 286 left)
+21-Sep-2018 22:32:56 Sub_BART_58  submitted (10 run / 0 fail / 48 done / 285 left)
+.......
+21-Sep-2018 22:49:57 Sub_BART_56  completed (9 run / 0 fail / 49 done / 285 left)
+21-Sep-2018 22:49:57 Sub_BART_59  submitted (10 run / 0 fail / 49 done / 284 left)
+21-Sep-2018 22:50:32 Sub_BART_55  completed (9 run / 0 fail / 50 done / 284 left)
+21-Sep-2018 22:50:32 Sub_BART_60  submitted (10 run / 0 fail / 50 done / 283 left)
+21-Sep-2018 22:54:05 Sub_BART_53  completed (9 run / 0 fail / 51 done / 283 left)
+21-Sep-2018 22:54:05 Sub_BART_61  submitted (10 run / 0 fail / 51 done / 282 left)
+21-Sep-2018 22:54:29 Sub_BART_52  completed (9 run / 0 fail / 52 done / 282 left)
+21-Sep-2018 22:54:29 Sub_BART_62  submitted (10 run / 0 fail / 52 done / 281 left)
+..
+.................
+21-Sep-2018 23:23:26 Sub_BART_57  completed (9 run / 0 fail / 53 done / 281 left)
+21-Sep-2018 23:23:26 Sub_BART_63  submitted (10 run / 0 fail / 53 done / 280 left)
+21-Sep-2018 23:23:59 Sub_BART_58  completed (9 run / 0 fail / 54 done / 280 left)
+21-Sep-2018 23:23:59 Sub_BART_64  submitted (10 run / 0 fail / 54 done / 279 left)
+.
+....
+21-Sep-2018 23:33:42 Sub_BART_60  completed (9 run / 0 fail / 55 done / 279 left)
+21-Sep-2018 23:33:42 Sub_BART_65  submitted (10 run / 0 fail / 55 done / 278 left)
+..
+21-Sep-2018 23:38:25 Sub_BART_59  completed (9 run / 0 fail / 56 done / 278 left)
+21-Sep-2018 23:38:25 Sub_BART_66  submitted (10 run / 0 fail / 56 done / 277 left)
+21-Sep-2018 23:38:47 Sub_BART_61  completed (9 run / 0 fail / 57 done / 277 left)
+21-Sep-2018 23:38:47 Sub_BART_67  submitted (10 run / 0 fail / 57 done / 276 left)
+.
+..
+21-Sep-2018 23:44:51 Sub_BART_62  completed (9 run / 0 fail / 58 done / 276 left)
+21-Sep-2018 23:44:51 Sub_BART_68  submitted (10 run / 0 fail / 58 done / 275 left)
+.
+.........
+22-Sep-2018 00:02:30 Sub_BART_64  completed (9 run / 0 fail / 59 done / 275 left)
+22-Sep-2018 00:02:30 Sub_BART_69  submitted (10 run / 0 fail / 59 done / 274 left)
+..
+22-Sep-2018 00:05:11 Sub_BART_63  completed (9 run / 0 fail / 60 done / 274 left)
+22-Sep-2018 00:05:11 Sub_BART_70  submitted (10 run / 0 fail / 60 done / 273 left)
+.
+...
+22-Sep-2018 00:12:57 Sub_BART_65  completed (9 run / 0 fail / 61 done / 273 left)
+22-Sep-2018 00:12:57 Sub_BART_71  submitted (10 run / 0 fail / 61 done / 272 left)
+.
+..
+22-Sep-2018 00:19:45 Sub_BART_67  completed (9 run / 0 fail / 62 done / 272 left)
+22-Sep-2018 00:19:45 Sub_BART_72  submitted (10 run / 0 fail / 62 done / 271 left)
+22-Sep-2018 00:19:56 Sub_BART_66  completed (9 run / 0 fail / 63 done / 271 left)
+22-Sep-2018 00:19:56 Sub_BART_73  submitted (10 run / 0 fail / 63 done / 270 left)
+.
+22-Sep-2018 00:22:34 Sub_BART_68  completed (9 run / 0 fail / 64 done / 270 left)
+22-Sep-2018 00:22:34 Sub_BART_74  submitted (10 run / 0 fail / 64 done / 269 left)
+.......
+22-Sep-2018 00:33:33 Sub_BART_69  completed (9 run / 0 fail / 65 done / 269 left)
+22-Sep-2018 00:33:33 Sub_BART_75  submitted (10 run / 0 fail / 65 done / 268 left)
+.
+22-Sep-2018 00:36:44 Sub_BART_70  completed (9 run / 0 fail / 66 done / 268 left)
+22-Sep-2018 00:36:44 Sub_BART_76  submitted (10 run / 0 fail / 66 done / 267 left)
+.
+.
+22-Sep-2018 00:39:57 Sub_BART_71  completed (9 run / 0 fail / 67 done / 267 left)
+22-Sep-2018 00:39:57 Sub_BART_77  submitted (10 run / 0 fail / 67 done / 266 left)
+.
+.
+22-Sep-2018 00:43:36 Sub_BART_73  completed (9 run / 0 fail / 68 done / 266 left)
+22-Sep-2018 00:43:36 Sub_BART_74  completed (8 run / 0 fail / 69 done / 266 left)
+22-Sep-2018 00:43:36 Sub_BART_78  submitted (9 run / 0 fail / 69 done / 265 left)
+22-Sep-2018 00:43:36 Sub_BART_79  submitted (10 run / 0 fail / 69 done / 264 left)
+22-Sep-2018 00:44:20 Sub_BART_72  completed (9 run / 0 fail / 70 done / 264 left)
+22-Sep-2018 00:44:20 Sub_BART_80  submitted (10 run / 0 fail / 70 done / 263 left)
+...
+22-Sep-2018 00:50:15 Sub_BART_75  completed (9 run / 0 fail / 71 done / 263 left)
+22-Sep-2018 00:50:15 Sub_BART_81  submitted (10 run / 0 fail / 71 done / 262 left)
+22-Sep-2018 00:51:42 Sub_BART_76  completed (9 run / 0 fail / 72 done / 262 left)
+22-Sep-2018 00:51:42 Sub_BART_82  submitted (10 run / 0 fail / 72 done / 261 left)
+22-Sep-2018 00:52:14 Sub_BART_77  completed (9 run / 0 fail / 73 done / 261 left)
+22-Sep-2018 00:52:14 Sub_BART_83  submitted (10 run / 0 fail / 73 done / 260 left)
+22-Sep-2018 00:53:44 Sub_BART_79  completed (9 run / 0 fail / 74 done / 260 left)
+22-Sep-2018 00:53:44 Sub_BART_84  submitted (10 run / 0 fail / 74 done / 259 left)
+22-Sep-2018 00:54:04 Sub_BART_80  completed (9 run / 0 fail / 75 done / 259 left)
+22-Sep-2018 00:54:04 Sub_BART_85  submitted (10 run / 0 fail / 75 done / 258 left)
+22-Sep-2018 00:54:15 Sub_BART_78  completed (9 run / 0 fail / 76 done / 258 left)
+22-Sep-2018 00:54:15 Sub_BART_86  submitted (10 run / 0 fail / 76 done / 257 left)
+..
+22-Sep-2018 00:58:54 Sub_BART_81  completed (9 run / 0 fail / 77 done / 257 left)
+22-Sep-2018 00:58:54 Sub_BART_87  submitted (10 run / 0 fail / 77 done / 256 left)
+22-Sep-2018 00:59:34 Sub_BART_82  completed (9 run / 0 fail / 78 done / 256 left)
+22-Sep-2018 00:59:34 Sub_BART_88  submitted (10 run / 0 fail / 78 done / 255 left)
+22-Sep-2018 01:00:30 Sub_BART_83  completed (9 run / 0 fail / 79 done / 255 left)
+22-Sep-2018 01:00:30 Sub_BART_89  submitted (10 run / 0 fail / 79 done / 254 left)
+..
+22-Sep-2018 01:04:16 Sub_BART_85  completed (9 run / 0 fail / 80 done / 254 left)
+22-Sep-2018 01:04:16 Sub_BART_90  submitted (10 run / 0 fail / 80 done / 253 left)
+22-Sep-2018 01:05:17 Sub_BART_84  completed (9 run / 0 fail / 81 done / 253 left)
+22-Sep-2018 01:05:17 Sub_BART_86  completed (8 run / 0 fail / 82 done / 253 left)
+22-Sep-2018 01:05:17 Sub_BART_91  submitted (9 run / 0 fail / 82 done / 252 left)
+22-Sep-2018 01:05:17 Sub_BART_92  submitted (10 run / 0 fail / 82 done / 251 left)
+.
+22-Sep-2018 01:08:09 Sub_BART_87  completed (9 run / 0 fail / 83 done / 251 left)
+22-Sep-2018 01:08:09 Sub_BART_93  submitted (10 run / 0 fail / 83 done / 250 left)
+22-Sep-2018 01:08:53 Sub_BART_88  completed (9 run / 0 fail / 84 done / 250 left)
+22-Sep-2018 01:08:53 Sub_BART_94  submitted (10 run / 0 fail / 84 done / 249 left)
+22-Sep-2018 01:09:05 Sub_BART_89  completed (9 run / 0 fail / 85 done / 249 left)
+22-Sep-2018 01:09:05 Sub_BART_95  submitted (10 run / 0 fail / 85 done / 248 left)
+..
+22-Sep-2018 01:12:44 Sub_BART_90  completed (9 run / 0 fail / 86 done / 248 left)
+22-Sep-2018 01:12:44 Sub_BART_96  submitted (10 run / 0 fail / 86 done / 247 left)
+22-Sep-2018 01:13:40 Sub_BART_92  completed (9 run / 0 fail / 87 done / 247 left)
+22-Sep-2018 01:13:40 Sub_BART_97  submitted (10 run / 0 fail / 87 done / 246 left)
+22-Sep-2018 01:14:40 Sub_BART_91  completed (9 run / 0 fail / 88 done / 246 left)
+22-Sep-2018 01:14:40 Sub_BART_98  submitted (10 run / 0 fail / 88 done / 245 left)
+22-Sep-2018 01:16:43 Sub_BART_93  completed (9 run / 0 fail / 89 done / 245 left)
+22-Sep-2018 01:16:43 Sub_BART_99  submitted (10 run / 0 fail / 89 done / 244 left)
+22-Sep-2018 01:17:58 Sub_BART_95  completed (9 run / 0 fail / 90 done / 244 left)
+22-Sep-2018 01:17:58 Sub_BART_100 submitted (10 run / 0 fail / 90 done / 243 left)
+22-Sep-2018 01:19:38 Sub_BART_94  completed (9 run / 0 fail / 91 done / 243 left)
+22-Sep-2018 01:19:38 Sub_BART_101 submitted (10 run / 0 fail / 91 done / 242 left)
+.
+22-Sep-2018 01:22:05 Sub_BART_96  completed (9 run / 0 fail / 92 done / 242 left)
+22-Sep-2018 01:22:05 Sub_BART_102 submitted (10 run / 0 fail / 92 done / 241 left)
+22-Sep-2018 01:22:29 Sub_BART_97  completed (9 run / 0 fail / 93 done / 241 left)
+22-Sep-2018 01:22:29 Sub_BART_103 submitted (10 run / 0 fail / 93 done / 240 left)
+22-Sep-2018 01:23:15 Sub_BART_98  completed (9 run / 0 fail / 94 done / 240 left)
+22-Sep-2018 01:23:15 Sub_BART_104 submitted (10 run / 0 fail / 94 done / 239 left)
+.
+22-Sep-2018 01:25:56 Sub_BART_99  completed (9 run / 0 fail / 95 done / 239 left)
+22-Sep-2018 01:25:56 Sub_BART_105 submitted (10 run / 0 fail / 95 done / 238 left)
+22-Sep-2018 01:26:29 Sub_BART_100 completed (9 run / 0 fail / 96 done / 238 left)
+22-Sep-2018 01:26:29 Sub_BART_106 submitted (10 run / 0 fail / 96 done / 237 left)
+.
+22-Sep-2018 01:28:31 Sub_BART_101 completed (9 run / 0 fail / 97 done / 237 left)
+22-Sep-2018 01:28:31 Sub_BART_107 submitted (10 run / 0 fail / 97 done / 236 left)
+22-Sep-2018 01:30:36 Sub_BART_102 completed (9 run / 0 fail / 98 done / 236 left)
+22-Sep-2018 01:30:36 Sub_BART_108 submitted (10 run / 0 fail / 98 done / 235 left)
+22-Sep-2018 01:32:19 Sub_BART_104 completed (9 run / 0 fail / 99 done / 235 left)
+22-Sep-2018 01:32:19 Sub_BART_109 submitted (10 run / 0 fail / 99 done / 234 left)
+22-Sep-2018 01:32:48 Sub_BART_103 completed (9 run / 0 fail / 100 done / 234 left)
+22-Sep-2018 01:32:48 Sub_BART_110 submitted (10 run / 0 fail / 100 done / 233 left)
+.
+.
+22-Sep-2018 01:36:13 Sub_BART_105 completed (9 run / 0 fail / 101 done / 233 left)
+22-Sep-2018 01:36:13 Sub_BART_111 submitted (10 run / 0 fail / 101 done / 232 left)
+.
+22-Sep-2018 01:39:02 Sub_BART_106 completed (9 run / 0 fail / 102 done / 232 left)
+22-Sep-2018 01:39:02 Sub_BART_112 submitted (10 run / 0 fail / 102 done / 231 left)
+.
+22-Sep-2018 01:40:35 Sub_BART_107 completed (9 run / 0 fail / 103 done / 231 left)
+22-Sep-2018 01:40:35 Sub_BART_113 submitted (10 run / 0 fail / 103 done / 230 left)
+22-Sep-2018 01:40:45 Sub_BART_108 completed (9 run / 0 fail / 104 done / 230 left)
+22-Sep-2018 01:40:45 Sub_BART_114 submitted (10 run / 0 fail / 104 done / 229 left)
+.
+22-Sep-2018 01:44:03 Sub_BART_109 completed (9 run / 0 fail / 105 done / 229 left)
+22-Sep-2018 01:44:03 Sub_BART_115 submitted (10 run / 0 fail / 105 done / 228 left)
+.
+22-Sep-2018 01:47:27 Sub_BART_110 completed (9 run / 0 fail / 106 done / 228 left)
+22-Sep-2018 01:47:27 Sub_BART_116 submitted (10 run / 0 fail / 106 done / 227 left)
+22-Sep-2018 01:48:47 Sub_BART_111 completed (9 run / 0 fail / 107 done / 227 left)
+22-Sep-2018 01:48:47 Sub_BART_117 submitted (10 run / 0 fail / 107 done / 226 left)
+.
+22-Sep-2018 01:51:34 Sub_BART_112 completed (9 run / 0 fail / 108 done / 226 left)
+22-Sep-2018 01:51:34 Sub_BART_118 submitted (10 run / 0 fail / 108 done / 225 left)
+22-Sep-2018 01:52:12 Sub_BART_113 completed (9 run / 0 fail / 109 done / 225 left)
+22-Sep-2018 01:52:12 Sub_BART_119 submitted (10 run / 0 fail / 109 done / 224 left)
+22-Sep-2018 01:54:03 Sub_BART_114 completed (9 run / 0 fail / 110 done / 224 left)
+22-Sep-2018 01:54:03 Sub_BART_120 submitted (10 run / 0 fail / 110 done / 223 left)
+22-Sep-2018 01:55:31 Sub_BART_115 completed (9 run / 0 fail / 111 done / 223 left)
+22-Sep-2018 01:55:31 Sub_BART_121 submitted (10 run / 0 fail / 111 done / 222 left)
+22-Sep-2018 01:57:12 Sub_BART_116 completed (9 run / 0 fail / 112 done / 222 left)
+22-Sep-2018 01:57:12 Sub_BART_122 submitted (10 run / 0 fail / 112 done / 221 left)
+22-Sep-2018 01:57:57 Sub_BART_117 completed (9 run / 0 fail / 113 done / 221 left)
+22-Sep-2018 01:57:57 Sub_BART_123 submitted (10 run / 0 fail / 113 done / 220 left)
+.
+22-Sep-2018 02:01:07 Sub_BART_119 completed (9 run / 0 fail / 114 done / 220 left)
+22-Sep-2018 02:01:07 Sub_BART_124 submitted (10 run / 0 fail / 114 done / 219 left)
+22-Sep-2018 02:01:47 Sub_BART_118 completed (9 run / 0 fail / 115 done / 219 left)
+22-Sep-2018 02:01:47 Sub_BART_125 submitted (10 run / 0 fail / 115 done / 218 left)
+22-Sep-2018 02:01:59 Sub_BART_120 completed (9 run / 0 fail / 116 done / 218 left)
+22-Sep-2018 02:01:59 Sub_BART_126 submitted (10 run / 0 fail / 116 done / 217 left)
+.
+22-Sep-2018 02:06:27 Sub_BART_121 completed (9 run / 0 fail / 117 done / 217 left)
+22-Sep-2018 02:06:27 Sub_BART_127 submitted (10 run / 0 fail / 117 done / 216 left)
+22-Sep-2018 02:07:24 Sub_BART_122 completed (9 run / 0 fail / 118 done / 216 left)
+22-Sep-2018 02:07:24 Sub_BART_128 submitted (10 run / 0 fail / 118 done / 215 left)
+22-Sep-2018 02:08:14 Sub_BART_123 completed (9 run / 0 fail / 119 done / 215 left)
+22-Sep-2018 02:08:14 Sub_BART_129 submitted (10 run / 0 fail / 119 done / 214 left)
+..
+22-Sep-2018 02:11:28 Sub_BART_126 completed (9 run / 0 fail / 120 done / 214 left)
+22-Sep-2018 02:11:28 Sub_BART_130 submitted (10 run / 0 fail / 120 done / 213 left)
+22-Sep-2018 02:12:24 Sub_BART_124 completed (9 run / 0 fail / 121 done / 213 left)
+22-Sep-2018 02:12:24 Sub_BART_131 submitted (10 run / 0 fail / 121 done / 212 left)
+22-Sep-2018 02:12:48 Sub_BART_125 completed (9 run / 0 fail / 122 done / 212 left)
+22-Sep-2018 02:12:48 Sub_BART_132 submitted (10 run / 0 fail / 122 done / 211 left)
+.
+22-Sep-2018 02:16:01 Sub_BART_128 completed (9 run / 0 fail / 123 done / 211 left)
+22-Sep-2018 02:16:01 Sub_BART_133 submitted (10 run / 0 fail / 123 done / 210 left)
+22-Sep-2018 02:16:24 Sub_BART_127 completed (9 run / 0 fail / 124 done / 210 left)
+22-Sep-2018 02:16:24 Sub_BART_134 submitted (10 run / 0 fail / 124 done / 209 left)
+22-Sep-2018 02:16:47 Sub_BART_129 completed (9 run / 0 fail / 125 done / 209 left)
+22-Sep-2018 02:16:47 Sub_BART_135 submitted (10 run / 0 fail / 125 done / 208 left)
+.
+22-Sep-2018 02:21:27 Sub_BART_130 completed (9 run / 0 fail / 126 done / 208 left)
+22-Sep-2018 02:21:27 Sub_BART_136 submitted (10 run / 0 fail / 126 done / 207 left)
+.
+22-Sep-2018 02:22:44 Sub_BART_131 completed (9 run / 0 fail / 127 done / 207 left)
+22-Sep-2018 02:22:44 Sub_BART_137 submitted (10 run / 0 fail / 127 done / 206 left)
+.
+22-Sep-2018 02:25:24 Sub_BART_132 completed (9 run / 0 fail / 128 done / 206 left)
+22-Sep-2018 02:25:24 Sub_BART_138 submitted (10 run / 0 fail / 128 done / 205 left)
+.
+22-Sep-2018 02:28:52 Sub_BART_135 completed (9 run / 0 fail / 129 done / 205 left)
+22-Sep-2018 02:28:52 Sub_BART_139 submitted (10 run / 0 fail / 129 done / 204 left)
+22-Sep-2018 02:29:27 Sub_BART_133 completed (9 run / 0 fail / 130 done / 204 left)
+22-Sep-2018 02:29:27 Sub_BART_140 submitted (10 run / 0 fail / 130 done / 203 left)
+22-Sep-2018 02:30:12 Sub_BART_134 completed (9 run / 0 fail / 131 done / 203 left)
+22-Sep-2018 02:30:12 Sub_BART_141 submitted (10 run / 0 fail / 131 done / 202 left)
+.
+22-Sep-2018 02:33:49 Sub_BART_136 completed (9 run / 0 fail / 132 done / 202 left)
+22-Sep-2018 02:33:49 Sub_BART_142 submitted (10 run / 0 fail / 132 done / 201 left)
+22-Sep-2018 02:34:12 Sub_BART_137 completed (9 run / 0 fail / 133 done / 201 left)
+22-Sep-2018 02:34:12 Sub_BART_138 completed (8 run / 0 fail / 134 done / 201 left)
+22-Sep-2018 02:34:12 Sub_BART_143 submitted (9 run / 0 fail / 134 done / 200 left)
+22-Sep-2018 02:34:12 Sub_BART_144 submitted (10 run / 0 fail / 134 done / 199 left)
+..
+..
+22-Sep-2018 02:40:55 Sub_BART_141 completed (9 run / 0 fail / 135 done / 199 left)
+22-Sep-2018 02:40:55 Sub_BART_145 submitted (10 run / 0 fail / 135 done / 198 left)
+22-Sep-2018 02:41:18 Sub_BART_139 completed (9 run / 0 fail / 136 done / 198 left)
+22-Sep-2018 02:41:18 Sub_BART_146 submitted (10 run / 0 fail / 136 done / 197 left)
+.
+22-Sep-2018 02:42:41 Sub_BART_140 completed (9 run / 0 fail / 137 done / 197 left)
+22-Sep-2018 02:42:41 Sub_BART_147 submitted (10 run / 0 fail / 137 done / 196 left)
+.
+22-Sep-2018 02:45:46 Sub_BART_142 completed (9 run / 0 fail / 138 done / 196 left)
+22-Sep-2018 02:45:46 Sub_BART_148 submitted (10 run / 0 fail / 138 done / 195 left)
+22-Sep-2018 02:47:43 Sub_BART_144 completed (9 run / 0 fail / 139 done / 195 left)
+22-Sep-2018 02:47:43 Sub_BART_149 submitted (10 run / 0 fail / 139 done / 194 left)
+22-Sep-2018 02:48:49 Sub_BART_143 completed (9 run / 0 fail / 140 done / 194 left)
+22-Sep-2018 02:48:49 Sub_BART_150 submitted (10 run / 0 fail / 140 done / 193 left)
+.
+22-Sep-2018 02:51:55 Sub_BART_145 completed (9 run / 0 fail / 141 done / 193 left)
+22-Sep-2018 02:51:56 Sub_BART_147 completed (8 run / 0 fail / 142 done / 193 left)
+22-Sep-2018 02:51:56 Sub_BART_151 submitted (9 run / 0 fail / 142 done / 192 left)
+22-Sep-2018 02:51:56 Sub_BART_152 submitted (10 run / 0 fail / 142 done / 191 left)
+22-Sep-2018 02:52:07 Sub_BART_146 completed (9 run / 0 fail / 143 done / 191 left)
+22-Sep-2018 02:52:07 Sub_BART_153 submitted (10 run / 0 fail / 143 done / 190 left)
+.
+22-Sep-2018 02:55:20 Sub_BART_148 completed (9 run / 0 fail / 144 done / 190 left)
+22-Sep-2018 02:55:20 Sub_BART_154 submitted (10 run / 0 fail / 144 done / 189 left)
+22-Sep-2018 02:57:06 Sub_BART_149 completed (9 run / 0 fail / 145 done / 189 left)
+22-Sep-2018 02:57:06 Sub_BART_150 completed (8 run / 0 fail / 146 done / 189 left)
+22-Sep-2018 02:57:06 Sub_BART_155 submitted (9 run / 0 fail / 146 done / 188 left)
+22-Sep-2018 02:57:07 Sub_BART_156 submitted (10 run / 0 fail / 146 done / 187 left)
+.
+22-Sep-2018 02:59:30 Sub_BART_153 completed (9 run / 0 fail / 147 done / 187 left)
+22-Sep-2018 02:59:30 Sub_BART_157 submitted (10 run / 0 fail / 147 done / 186 left)
+22-Sep-2018 03:00:09 Sub_BART_151 completed (9 run / 0 fail / 148 done / 186 left)
+22-Sep-2018 03:00:09 Sub_BART_152 completed (8 run / 0 fail / 149 done / 186 left)
+22-Sep-2018 03:00:09 Sub_BART_158 submitted (9 run / 0 fail / 149 done / 185 left)
+22-Sep-2018 03:00:09 Sub_BART_159 submitted (10 run / 0 fail / 149 done / 184 left)
+.
+22-Sep-2018 03:03:58 Sub_BART_154 completed (9 run / 0 fail / 150 done / 184 left)
+22-Sep-2018 03:03:58 Sub_BART_160 submitted (10 run / 0 fail / 150 done / 183 left)
+22-Sep-2018 03:05:56 Sub_BART_156 completed (9 run / 0 fail / 151 done / 183 left)
+22-Sep-2018 03:05:56 Sub_BART_161 submitted (10 run / 0 fail / 151 done / 182 left)
+22-Sep-2018 03:06:18 Sub_BART_155 completed (9 run / 0 fail / 152 done / 182 left)
+22-Sep-2018 03:06:18 Sub_BART_162 submitted (10 run / 0 fail / 152 done / 181 left)
+.
+...
+22-Sep-2018 03:12:45 Sub_BART_157 completed (9 run / 0 fail / 153 done / 181 left)
+22-Sep-2018 03:12:45 Sub_BART_163 submitted (10 run / 0 fail / 153 done / 180 left)
+22-Sep-2018 03:14:20 Sub_BART_159 completed (9 run / 0 fail / 154 done / 180 left)
+22-Sep-2018 03:14:20 Sub_BART_164 submitted (10 run / 0 fail / 154 done / 179 left)
+22-Sep-2018 03:14:32 Sub_BART_158 completed (9 run / 0 fail / 155 done / 179 left)
+22-Sep-2018 03:14:32 Sub_BART_165 submitted (10 run / 0 fail / 155 done / 178 left)
+.
+.
+22-Sep-2018 03:18:00 Sub_BART_160 completed (9 run / 0 fail / 156 done / 178 left)
+22-Sep-2018 03:18:00 Sub_BART_166 submitted (10 run / 0 fail / 156 done / 177 left)
+22-Sep-2018 03:20:07 Sub_BART_161 completed (9 run / 0 fail / 157 done / 177 left)
+22-Sep-2018 03:20:07 Sub_BART_167 submitted (10 run / 0 fail / 157 done / 176 left)
+22-Sep-2018 03:21:43 Sub_BART_162 completed (9 run / 0 fail / 158 done / 176 left)
+22-Sep-2018 03:21:43 Sub_BART_168 submitted (10 run / 0 fail / 158 done / 175 left)
+.
+22-Sep-2018 03:24:19 Sub_BART_164 completed (9 run / 0 fail / 159 done / 175 left)
+22-Sep-2018 03:24:19 Sub_BART_169 submitted (10 run / 0 fail / 159 done / 174 left)
+22-Sep-2018 03:25:00 Sub_BART_163 completed (9 run / 0 fail / 160 done / 174 left)
+22-Sep-2018 03:25:00 Sub_BART_170 submitted (10 run / 0 fail / 160 done / 173 left)
+22-Sep-2018 03:25:39 Sub_BART_165 completed (9 run / 0 fail / 161 done / 173 left)
+22-Sep-2018 03:25:39 Sub_BART_171 submitted (10 run / 0 fail / 161 done / 172 left)
+.
+22-Sep-2018 03:28:01 Sub_BART_166 completed (9 run / 0 fail / 162 done / 172 left)
+22-Sep-2018 03:28:01 Sub_BART_172 submitted (10 run / 0 fail / 162 done / 171 left)
+22-Sep-2018 03:28:55 Sub_BART_167 completed (9 run / 0 fail / 163 done / 171 left)
+22-Sep-2018 03:28:55 Sub_BART_173 submitted (10 run / 0 fail / 163 done / 170 left)
+22-Sep-2018 03:30:30 Sub_BART_168 completed (9 run / 0 fail / 164 done / 170 left)
+22-Sep-2018 03:30:30 Sub_BART_174 submitted (10 run / 0 fail / 164 done / 169 left)
+.
+.
+22-Sep-2018 03:35:48 Sub_BART_169 completed (9 run / 0 fail / 165 done / 169 left)
+22-Sep-2018 03:35:48 Sub_BART_175 submitted (10 run / 0 fail / 165 done / 168 left)
+22-Sep-2018 03:36:58 Sub_BART_171 completed (9 run / 0 fail / 166 done / 168 left)
+22-Sep-2018 03:36:58 Sub_BART_176 submitted (10 run / 0 fail / 166 done / 167 left)
+22-Sep-2018 03:38:13 Sub_BART_170 completed (9 run / 0 fail / 167 done / 167 left)
+22-Sep-2018 03:38:13 Sub_BART_177 submitted (10 run / 0 fail / 167 done / 166 left)
+.
+22-Sep-2018 03:40:48 Sub_BART_172 completed (9 run / 0 fail / 168 done / 166 left)
+22-Sep-2018 03:40:48 Sub_BART_178 submitted (10 run / 0 fail / 168 done / 165 left)
+22-Sep-2018 03:42:08 Sub_BART_173 completed (9 run / 0 fail / 169 done / 165 left)
+22-Sep-2018 03:42:08 Sub_BART_179 submitted (10 run / 0 fail / 169 done / 164 left)
+22-Sep-2018 03:43:17 Sub_BART_174 completed (9 run / 0 fail / 170 done / 164 left)
+22-Sep-2018 03:43:17 Sub_BART_180 submitted (10 run / 0 fail / 170 done / 163 left)
+...
+22-Sep-2018 03:48:07 Sub_BART_176 completed (9 run / 0 fail / 171 done / 163 left)
+22-Sep-2018 03:48:07 Sub_BART_181 submitted (10 run / 0 fail / 171 done / 162 left)
+22-Sep-2018 03:48:29 Sub_BART_175 completed (9 run / 0 fail / 172 done / 162 left)
+22-Sep-2018 03:48:29 Sub_BART_182 submitted (10 run / 0 fail / 172 done / 161 left)
+22-Sep-2018 03:48:51 Sub_BART_177 completed (9 run / 0 fail / 173 done / 161 left)
+22-Sep-2018 03:48:51 Sub_BART_183 submitted (10 run / 0 fail / 173 done / 160 left)
+22-Sep-2018 03:51:45 Sub_BART_178 completed (9 run / 0 fail / 174 done / 160 left)
+22-Sep-2018 03:51:45 Sub_BART_184 submitted (10 run / 0 fail / 174 done / 159 left)
+.
+22-Sep-2018 03:54:02 Sub_BART_179 completed (9 run / 0 fail / 175 done / 159 left)
+22-Sep-2018 03:54:02 Sub_BART_180 completed (8 run / 0 fail / 176 done / 159 left)
+22-Sep-2018 03:54:02 Sub_BART_185 submitted (9 run / 0 fail / 176 done / 158 left)
+22-Sep-2018 03:54:02 Sub_BART_186 submitted (10 run / 0 fail / 176 done / 157 left)
+.
+22-Sep-2018 03:58:08 Sub_BART_181 completed (9 run / 0 fail / 177 done / 157 left)
+22-Sep-2018 03:58:09 Sub_BART_182 completed (8 run / 0 fail / 178 done / 157 left)
+22-Sep-2018 03:58:09 Sub_BART_187 submitted (9 run / 0 fail / 178 done / 156 left)
+22-Sep-2018 03:58:09 Sub_BART_188 submitted (10 run / 0 fail / 178 done / 155 left)
+22-Sep-2018 03:59:12 Sub_BART_183 completed (9 run / 0 fail / 179 done / 155 left)
+22-Sep-2018 03:59:12 Sub_BART_189 submitted (10 run / 0 fail / 179 done / 154 left)
+22-Sep-2018 04:01:22 Sub_BART_184 completed (9 run / 0 fail / 180 done / 154 left)
+22-Sep-2018 04:01:22 Sub_BART_190 submitted (10 run / 0 fail / 180 done / 153 left)
+22-Sep-2018 04:02:59 Sub_BART_185 completed (9 run / 0 fail / 181 done / 153 left)
+22-Sep-2018 04:02:59 Sub_BART_191 submitted (10 run / 0 fail / 181 done / 152 left)
+22-Sep-2018 04:03:22 Sub_BART_186 completed (9 run / 0 fail / 182 done / 152 left)
+22-Sep-2018 04:03:22 Sub_BART_192 submitted (10 run / 0 fail / 182 done / 151 left)
+..
+22-Sep-2018 04:08:34 Sub_BART_188 completed (9 run / 0 fail / 183 done / 151 left)
+22-Sep-2018 04:08:34 Sub_BART_193 submitted (10 run / 0 fail / 183 done / 150 left)
+22-Sep-2018 04:09:53 Sub_BART_187 completed (9 run / 0 fail / 184 done / 150 left)
+22-Sep-2018 04:09:53 Sub_BART_194 submitted (10 run / 0 fail / 184 done / 149 left)
+22-Sep-2018 04:10:27 Sub_BART_189 completed (9 run / 0 fail / 185 done / 149 left)
+22-Sep-2018 04:10:27 Sub_BART_195 submitted (10 run / 0 fail / 185 done / 148 left)
+22-Sep-2018 04:11:01 Sub_BART_190 completed (9 run / 0 fail / 186 done / 148 left)
+22-Sep-2018 04:11:01 Sub_BART_196 submitted (10 run / 0 fail / 186 done / 147 left)
+..
+22-Sep-2018 04:14:11 Sub_BART_191 completed (9 run / 0 fail / 187 done / 147 left)
+22-Sep-2018 04:14:11 Sub_BART_192 completed (8 run / 0 fail / 188 done / 147 left)
+22-Sep-2018 04:14:11 Sub_BART_197 submitted (9 run / 0 fail / 188 done / 146 left)
+22-Sep-2018 04:14:11 Sub_BART_198 submitted (10 run / 0 fail / 188 done / 145 left)
+.
+22-Sep-2018 04:18:35 Sub_BART_193 completed (9 run / 0 fail / 189 done / 145 left)
+22-Sep-2018 04:18:35 Sub_BART_199 submitted (10 run / 0 fail / 189 done / 144 left)
+22-Sep-2018 04:18:59 Sub_BART_195 completed (9 run / 0 fail / 190 done / 144 left)
+22-Sep-2018 04:18:59 Sub_BART_200 submitted (10 run / 0 fail / 190 done / 143 left)
+22-Sep-2018 04:19:46 Sub_BART_194 completed (9 run / 0 fail / 191 done / 143 left)
+22-Sep-2018 04:19:46 Sub_BART_196 completed (8 run / 0 fail / 192 done / 143 left)
+22-Sep-2018 04:19:46 Sub_BART_201 submitted (9 run / 0 fail / 192 done / 142 left)
+22-Sep-2018 04:19:46 Sub_BART_202 submitted (10 run / 0 fail / 192 done / 141 left)
+..
+22-Sep-2018 04:24:40 Sub_BART_198 completed (9 run / 0 fail / 193 done / 141 left)
+22-Sep-2018 04:24:40 Sub_BART_203 submitted (10 run / 0 fail / 193 done / 140 left)
+22-Sep-2018 04:24:52 Sub_BART_197 completed (9 run / 0 fail / 194 done / 140 left)
+22-Sep-2018 04:24:52 Sub_BART_204 submitted (10 run / 0 fail / 194 done / 139 left)
+.
+.
+22-Sep-2018 04:29:41 Sub_BART_200 completed (9 run / 0 fail / 195 done / 139 left)
+22-Sep-2018 04:29:41 Sub_BART_201 completed (8 run / 0 fail / 196 done / 139 left)
+22-Sep-2018 04:29:41 Sub_BART_202 completed (7 run / 0 fail / 197 done / 139 left)
+22-Sep-2018 04:29:41 Sub_BART_205 submitted (8 run / 0 fail / 197 done / 138 left)
+22-Sep-2018 04:29:41 Sub_BART_206 submitted (9 run / 0 fail / 197 done / 137 left)
+22-Sep-2018 04:29:41 Sub_BART_207 submitted (10 run / 0 fail / 197 done / 136 left)
+22-Sep-2018 04:29:53 Sub_BART_199 completed (9 run / 0 fail / 198 done / 136 left)
+22-Sep-2018 04:29:53 Sub_BART_208 submitted (10 run / 0 fail / 198 done / 135 left)
+...
+22-Sep-2018 04:35:17 Sub_BART_203 completed (9 run / 0 fail / 199 done / 135 left)
+22-Sep-2018 04:35:17 Sub_BART_209 submitted (10 run / 0 fail / 199 done / 134 left)
+22-Sep-2018 04:35:56 Sub_BART_204 completed (9 run / 0 fail / 200 done / 134 left)
+22-Sep-2018 04:35:56 Sub_BART_210 submitted (10 run / 0 fail / 200 done / 133 left)
+..
+22-Sep-2018 04:41:28 Sub_BART_205 completed (9 run / 0 fail / 201 done / 133 left)
+22-Sep-2018 04:41:28 Sub_BART_208 completed (8 run / 0 fail / 202 done / 133 left)
+22-Sep-2018 04:41:28 Sub_BART_211 submitted (9 run / 0 fail / 202 done / 132 left)
+22-Sep-2018 04:41:28 Sub_BART_212 submitted (10 run / 0 fail / 202 done / 131 left)
+22-Sep-2018 04:42:34 Sub_BART_206 completed (9 run / 0 fail / 203 done / 131 left)
+22-Sep-2018 04:42:34 Sub_BART_207 completed (8 run / 0 fail / 204 done / 131 left)
+22-Sep-2018 04:42:34 Sub_BART_213 submitted (9 run / 0 fail / 204 done / 130 left)
+22-Sep-2018 04:42:34 Sub_BART_214 submitted (10 run / 0 fail / 204 done / 129 left)
+..
+22-Sep-2018 04:47:21 Sub_BART_209 completed (9 run / 0 fail / 205 done / 129 left)
+22-Sep-2018 04:47:21 Sub_BART_215 submitted (10 run / 0 fail / 205 done / 128 left)
+22-Sep-2018 04:48:05 Sub_BART_210 completed (9 run / 0 fail / 206 done / 128 left)
+22-Sep-2018 04:48:05 Sub_BART_216 submitted (10 run / 0 fail / 206 done / 127 left)
+.
+22-Sep-2018 04:51:04 Sub_BART_211 completed (9 run / 0 fail / 207 done / 127 left)
+22-Sep-2018 04:51:04 Sub_BART_217 submitted (10 run / 0 fail / 207 done / 126 left)
+22-Sep-2018 04:51:55 Sub_BART_212 completed (9 run / 0 fail / 208 done / 126 left)
+22-Sep-2018 04:51:55 Sub_BART_214 completed (8 run / 0 fail / 209 done / 126 left)
+22-Sep-2018 04:51:55 Sub_BART_218 submitted (9 run / 0 fail / 209 done / 125 left)
+22-Sep-2018 04:51:55 Sub_BART_219 submitted (10 run / 0 fail / 209 done / 124 left)
+22-Sep-2018 04:52:53 Sub_BART_213 completed (9 run / 0 fail / 210 done / 124 left)
+22-Sep-2018 04:52:53 Sub_BART_220 submitted (10 run / 0 fail / 210 done / 123 left)
+.
+22-Sep-2018 04:56:07 Sub_BART_216 completed (9 run / 0 fail / 211 done / 123 left)
+22-Sep-2018 04:56:07 Sub_BART_221 submitted (10 run / 0 fail / 211 done / 122 left)
+22-Sep-2018 04:56:20 Sub_BART_215 completed (9 run / 0 fail / 212 done / 122 left)
+22-Sep-2018 04:56:20 Sub_BART_222 submitted (10 run / 0 fail / 212 done / 121 left)
+.
+22-Sep-2018 04:59:34 Sub_BART_217 completed (9 run / 0 fail / 213 done / 121 left)
+22-Sep-2018 04:59:34 Sub_BART_223 submitted (10 run / 0 fail / 213 done / 120 left)
+22-Sep-2018 04:59:56 Sub_BART_219 completed (9 run / 0 fail / 214 done / 120 left)
+22-Sep-2018 04:59:56 Sub_BART_224 submitted (10 run / 0 fail / 214 done / 119 left)
+22-Sep-2018 05:00:08 Sub_BART_218 completed (9 run / 0 fail / 215 done / 119 left)
+22-Sep-2018 05:00:08 Sub_BART_225 submitted (10 run / 0 fail / 215 done / 118 left)
+22-Sep-2018 05:00:19 Sub_BART_220 completed (9 run / 0 fail / 216 done / 118 left)
+22-Sep-2018 05:00:19 Sub_BART_226 submitted (10 run / 0 fail / 216 done / 117 left)
+..
+22-Sep-2018 05:04:29 Sub_BART_222 completed (9 run / 0 fail / 217 done / 117 left)
+22-Sep-2018 05:04:29 Sub_BART_227 submitted (10 run / 0 fail / 217 done / 116 left)
+22-Sep-2018 05:05:43 Sub_BART_221 completed (9 run / 0 fail / 218 done / 116 left)
+22-Sep-2018 05:05:43 Sub_BART_228 submitted (10 run / 0 fail / 218 done / 115 left)
+....
+22-Sep-2018 05:13:57 Sub_BART_224 completed (9 run / 0 fail / 219 done / 115 left)
+22-Sep-2018 05:13:57 Sub_BART_229 submitted (10 run / 0 fail / 219 done / 114 left)
+22-Sep-2018 05:14:51 Sub_BART_223 completed (9 run / 0 fail / 220 done / 114 left)
+22-Sep-2018 05:14:51 Sub_BART_230 submitted (10 run / 0 fail / 220 done / 113 left)
+22-Sep-2018 05:15:14 Sub_BART_226 completed (9 run / 0 fail / 221 done / 113 left)
+22-Sep-2018 05:15:14 Sub_BART_231 submitted (10 run / 0 fail / 221 done / 112 left)
+22-Sep-2018 05:15:48 Sub_BART_225 completed (9 run / 0 fail / 222 done / 112 left)
+22-Sep-2018 05:15:48 Sub_BART_232 submitted (10 run / 0 fail / 222 done / 111 left)
+.
+22-Sep-2018 05:19:42 Sub_BART_227 completed (9 run / 0 fail / 223 done / 111 left)
+22-Sep-2018 05:19:42 Sub_BART_233 submitted (10 run / 0 fail / 223 done / 110 left)
+22-Sep-2018 05:21:06 Sub_BART_228 completed (9 run / 0 fail / 224 done / 110 left)
+22-Sep-2018 05:21:06 Sub_BART_234 submitted (10 run / 0 fail / 224 done / 109 left)
+.
+22-Sep-2018 05:23:50 Sub_BART_229 completed (9 run / 0 fail / 225 done / 109 left)
+22-Sep-2018 05:23:50 Sub_BART_235 submitted (10 run / 0 fail / 225 done / 108 left)
+22-Sep-2018 05:24:25 Sub_BART_230 completed (9 run / 0 fail / 226 done / 108 left)
+22-Sep-2018 05:24:25 Sub_BART_236 submitted (10 run / 0 fail / 226 done / 107 left)
+22-Sep-2018 05:24:48 Sub_BART_232 completed (9 run / 0 fail / 227 done / 107 left)
+22-Sep-2018 05:24:48 Sub_BART_237 submitted (10 run / 0 fail / 227 done / 106 left)
+22-Sep-2018 05:24:59 Sub_BART_231 completed (9 run / 0 fail / 228 done / 106 left)
+22-Sep-2018 05:24:59 Sub_BART_238 submitted (10 run / 0 fail / 228 done / 105 left)
+.
+22-Sep-2018 05:28:52 Sub_BART_233 completed (9 run / 0 fail / 229 done / 105 left)
+22-Sep-2018 05:28:52 Sub_BART_234 completed (8 run / 0 fail / 230 done / 105 left)
+22-Sep-2018 05:28:52 Sub_BART_239 submitted (9 run / 0 fail / 230 done / 104 left)
+22-Sep-2018 05:28:52 Sub_BART_240 submitted (10 run / 0 fail / 230 done / 103 left)
+..
+22-Sep-2018 05:33:31 Sub_BART_235 completed (9 run / 0 fail / 231 done / 103 left)
+22-Sep-2018 05:33:31 Sub_BART_241 submitted (10 run / 0 fail / 231 done / 102 left)
+22-Sep-2018 05:33:42 Sub_BART_236 completed (9 run / 0 fail / 232 done / 102 left)
+22-Sep-2018 05:33:42 Sub_BART_242 submitted (10 run / 0 fail / 232 done / 101 left)
+22-Sep-2018 05:35:24 Sub_BART_237 completed (9 run / 0 fail / 233 done / 101 left)
+22-Sep-2018 05:35:24 Sub_BART_243 submitted (10 run / 0 fail / 233 done / 100 left)
+22-Sep-2018 05:35:55 Sub_BART_238 completed (9 run / 0 fail / 234 done / 100 left)
+22-Sep-2018 05:35:55 Sub_BART_244 submitted (10 run / 0 fail / 234 done / 99 left)
+..
+22-Sep-2018 05:40:37 Sub_BART_239 completed (9 run / 0 fail / 235 done / 99 left)
+22-Sep-2018 05:40:37 Sub_BART_240 completed (8 run / 0 fail / 236 done / 99 left)
+22-Sep-2018 05:40:37 Sub_BART_245 submitted (9 run / 0 fail / 236 done / 98 left)
+22-Sep-2018 05:40:37 Sub_BART_246 submitted (10 run / 0 fail / 236 done / 97 left)
+.
+22-Sep-2018 05:46:08 Sub_BART_241 completed (9 run / 0 fail / 237 done / 97 left)
+22-Sep-2018 05:46:08 Sub_BART_247 submitted (10 run / 0 fail / 237 done / 96 left)
+22-Sep-2018 05:46:20 Sub_BART_242 completed (9 run / 0 fail / 238 done / 96 left)
+22-Sep-2018 05:46:20 Sub_BART_248 submitted (10 run / 0 fail / 238 done / 95 left)
+22-Sep-2018 05:47:59 Sub_BART_243 completed (9 run / 0 fail / 239 done / 95 left)
+22-Sep-2018 05:47:59 Sub_BART_249 submitted (10 run / 0 fail / 239 done / 94 left)
+22-Sep-2018 05:48:16 Sub_BART_244 completed (9 run / 0 fail / 240 done / 94 left)
+22-Sep-2018 05:48:16 Sub_BART_250 submitted (10 run / 0 fail / 240 done / 93 left)
+..
+22-Sep-2018 05:51:59 Sub_BART_246 completed (9 run / 0 fail / 241 done / 93 left)
+22-Sep-2018 05:51:59 Sub_BART_251 submitted (10 run / 0 fail / 241 done / 92 left)
+22-Sep-2018 05:52:21 Sub_BART_245 completed (9 run / 0 fail / 242 done / 92 left)
+22-Sep-2018 05:52:21 Sub_BART_252 submitted (10 run / 0 fail / 242 done / 91 left)
+..
+22-Sep-2018 05:56:51 Sub_BART_247 completed (9 run / 0 fail / 243 done / 91 left)
+22-Sep-2018 05:56:51 Sub_BART_253 submitted (10 run / 0 fail / 243 done / 90 left)
+22-Sep-2018 05:58:02 Sub_BART_248 completed (9 run / 0 fail / 244 done / 90 left)
+22-Sep-2018 05:58:02 Sub_BART_254 submitted (10 run / 0 fail / 244 done / 89 left)
+22-Sep-2018 05:58:17 Sub_BART_250 completed (9 run / 0 fail / 245 done / 89 left)
+22-Sep-2018 05:58:17 Sub_BART_255 submitted (10 run / 0 fail / 245 done / 88 left)
+22-Sep-2018 05:59:04 Sub_BART_249 completed (9 run / 0 fail / 246 done / 88 left)
+22-Sep-2018 05:59:04 Sub_BART_256 submitted (10 run / 0 fail / 246 done / 87 left)
+22-Sep-2018 06:00:36 Sub_BART_251 completed (9 run / 0 fail / 247 done / 87 left)
+22-Sep-2018 06:00:36 Sub_BART_257 submitted (10 run / 0 fail / 247 done / 86 left)
+22-Sep-2018 06:02:05 Sub_BART_252 completed (9 run / 0 fail / 248 done / 86 left)
+22-Sep-2018 06:02:05 Sub_BART_258 submitted (10 run / 0 fail / 248 done / 85 left)
+..
+22-Sep-2018 06:05:54 Sub_BART_253 completed (9 run / 0 fail / 249 done / 85 left)
+22-Sep-2018 06:05:54 Sub_BART_259 submitted (10 run / 0 fail / 249 done / 84 left)
+.
+22-Sep-2018 06:07:33 Sub_BART_254 completed (9 run / 0 fail / 250 done / 84 left)
+22-Sep-2018 06:07:33 Sub_BART_260 submitted (10 run / 0 fail / 250 done / 83 left)
+22-Sep-2018 06:09:07 Sub_BART_255 completed (9 run / 0 fail / 251 done / 83 left)
+22-Sep-2018 06:09:07 Sub_BART_261 submitted (10 run / 0 fail / 251 done / 82 left)
+22-Sep-2018 06:10:21 Sub_BART_257 completed (9 run / 0 fail / 252 done / 82 left)
+22-Sep-2018 06:10:21 Sub_BART_262 submitted (10 run / 0 fail / 252 done / 81 left)
+22-Sep-2018 06:12:33 Sub_BART_258 completed (9 run / 0 fail / 253 done / 81 left)
+22-Sep-2018 06:12:33 Sub_BART_263 submitted (10 run / 0 fail / 253 done / 80 left)
+22-Sep-2018 06:12:44 Sub_BART_256 completed (9 run / 0 fail / 254 done / 80 left)
+22-Sep-2018 06:12:44 Sub_BART_264 submitted (10 run / 0 fail / 254 done / 79 left)
+..
+22-Sep-2018 06:17:09 Sub_BART_260 completed (9 run / 0 fail / 255 done / 79 left)
+22-Sep-2018 06:17:09 Sub_BART_265 submitted (10 run / 0 fail / 255 done / 78 left)
+22-Sep-2018 06:17:30 Sub_BART_259 completed (9 run / 0 fail / 256 done / 78 left)
+22-Sep-2018 06:17:30 Sub_BART_266 submitted (10 run / 0 fail / 256 done / 77 left)
+22-Sep-2018 06:19:09 Sub_BART_261 completed (9 run / 0 fail / 257 done / 77 left)
+22-Sep-2018 06:19:09 Sub_BART_267 submitted (10 run / 0 fail / 257 done / 76 left)
+.
+22-Sep-2018 06:21:21 Sub_BART_262 completed (9 run / 0 fail / 258 done / 76 left)
+22-Sep-2018 06:21:21 Sub_BART_268 submitted (10 run / 0 fail / 258 done / 75 left)
+.
+22-Sep-2018 06:23:14 Sub_BART_264 completed (9 run / 0 fail / 259 done / 75 left)
+22-Sep-2018 06:23:14 Sub_BART_269 submitted (10 run / 0 fail / 259 done / 74 left)
+22-Sep-2018 06:23:25 Sub_BART_263 completed (9 run / 0 fail / 260 done / 74 left)
+22-Sep-2018 06:23:25 Sub_BART_270 submitted (10 run / 0 fail / 260 done / 73 left)
+.
+22-Sep-2018 06:27:36 Sub_BART_266 completed (9 run / 0 fail / 261 done / 73 left)
+22-Sep-2018 06:27:36 Sub_BART_271 submitted (10 run / 0 fail / 261 done / 72 left)
+22-Sep-2018 06:28:16 Sub_BART_265 completed (9 run / 0 fail / 262 done / 72 left)
+22-Sep-2018 06:28:16 Sub_BART_272 submitted (10 run / 0 fail / 262 done / 71 left)
+22-Sep-2018 06:29:23 Sub_BART_267 completed (9 run / 0 fail / 263 done / 71 left)
+22-Sep-2018 06:29:23 Sub_BART_273 submitted (10 run / 0 fail / 263 done / 70 left)
+22-Sep-2018 06:30:36 Sub_BART_268 completed (9 run / 0 fail / 264 done / 70 left)
+22-Sep-2018 06:30:36 Sub_BART_274 submitted (10 run / 0 fail / 264 done / 69 left)
+22-Sep-2018 06:32:31 Sub_BART_269 completed (9 run / 0 fail / 265 done / 69 left)
+22-Sep-2018 06:32:31 Sub_BART_270 completed (8 run / 0 fail / 266 done / 69 left)
+22-Sep-2018 06:32:31 Sub_BART_275 submitted (9 run / 0 fail / 266 done / 68 left)
+22-Sep-2018 06:32:31 Sub_BART_276 submitted (10 run / 0 fail / 266 done / 67 left)
+..
+22-Sep-2018 06:36:22 Sub_BART_271 completed (9 run / 0 fail / 267 done / 67 left)
+22-Sep-2018 06:36:22 Sub_BART_277 submitted (10 run / 0 fail / 267 done / 66 left)
+22-Sep-2018 06:36:50 Sub_BART_272 completed (9 run / 0 fail / 268 done / 66 left)
+22-Sep-2018 06:36:50 Sub_BART_278 submitted (10 run / 0 fail / 268 done / 65 left)
+22-Sep-2018 06:37:08 Sub_BART_273 completed (9 run / 0 fail / 269 done / 65 left)
+22-Sep-2018 06:37:08 Sub_BART_279 submitted (10 run / 0 fail / 269 done / 64 left)
+22-Sep-2018 06:38:18 Sub_BART_274 completed (9 run / 0 fail / 270 done / 64 left)
+22-Sep-2018 06:38:18 Sub_BART_280 submitted (10 run / 0 fail / 270 done / 63 left)
+.
+22-Sep-2018 06:40:37 Sub_BART_275 completed (9 run / 0 fail / 271 done / 63 left)
+22-Sep-2018 06:40:37 Sub_BART_281 submitted (10 run / 0 fail / 271 done / 62 left)
+22-Sep-2018 06:40:53 Sub_BART_276 completed (9 run / 0 fail / 272 done / 62 left)
+22-Sep-2018 06:40:53 Sub_BART_282 submitted (10 run / 0 fail / 272 done / 61 left)
+..
+22-Sep-2018 06:45:45 Sub_BART_279 completed (9 run / 0 fail / 273 done / 61 left)
+22-Sep-2018 06:45:45 Sub_BART_283 submitted (10 run / 0 fail / 273 done / 60 left)
+22-Sep-2018 06:46:27 Sub_BART_277 completed (9 run / 0 fail / 274 done / 60 left)
+22-Sep-2018 06:46:27 Sub_BART_278 completed (8 run / 0 fail / 275 done / 60 left)
+22-Sep-2018 06:46:27 Sub_BART_284 submitted (9 run / 0 fail / 275 done / 59 left)
+22-Sep-2018 06:46:27 Sub_BART_285 submitted (10 run / 0 fail / 275 done / 58 left)
+.
+22-Sep-2018 06:49:01 Sub_BART_280 completed (9 run / 0 fail / 276 done / 58 left)
+22-Sep-2018 06:49:01 Sub_BART_286 submitted (10 run / 0 fail / 276 done / 57 left)
+.
+22-Sep-2018 06:52:34 Sub_BART_282 completed (9 run / 0 fail / 277 done / 57 left)
+22-Sep-2018 06:52:34 Sub_BART_287 submitted (10 run / 0 fail / 277 done / 56 left)
+22-Sep-2018 06:53:38 Sub_BART_281 completed (9 run / 0 fail / 278 done / 56 left)
+22-Sep-2018 06:53:38 Sub_BART_288 submitted (10 run / 0 fail / 278 done / 55 left)
+22-Sep-2018 06:56:15 Sub_BART_285 completed (9 run / 0 fail / 279 done / 55 left)
+22-Sep-2018 06:56:15 Sub_BART_289 submitted (10 run / 0 fail / 279 done / 54 left)
+22-Sep-2018 06:56:29 Sub_BART_283 completed (9 run / 0 fail / 280 done / 54 left)
+22-Sep-2018 06:56:29 Sub_BART_290 submitted (10 run / 0 fail / 280 done / 53 left)
+22-Sep-2018 06:56:40 Sub_BART_284 completed (9 run / 0 fail / 281 done / 53 left)
+22-Sep-2018 06:56:40 Sub_BART_291 submitted (10 run / 0 fail / 281 done / 52 left)
+.
+22-Sep-2018 06:59:55 Sub_BART_286 completed (9 run / 0 fail / 282 done / 52 left)
+22-Sep-2018 06:59:55 Sub_BART_292 submitted (10 run / 0 fail / 282 done / 51 left)
+22-Sep-2018 07:01:43 Sub_BART_288 completed (9 run / 0 fail / 283 done / 51 left)
+22-Sep-2018 07:01:43 Sub_BART_293 submitted (10 run / 0 fail / 283 done / 50 left)
+22-Sep-2018 07:02:11 Sub_BART_287 completed (9 run / 0 fail / 284 done / 50 left)
+22-Sep-2018 07:02:11 Sub_BART_294 submitted (10 run / 0 fail / 284 done / 49 left)
+.
+22-Sep-2018 07:04:48 Sub_BART_289 completed (9 run / 0 fail / 285 done / 49 left)
+22-Sep-2018 07:04:48 Sub_BART_295 submitted (10 run / 0 fail / 285 done / 48 left)
+22-Sep-2018 07:05:16 Sub_BART_290 completed (9 run / 0 fail / 286 done / 48 left)
+22-Sep-2018 07:05:16 Sub_BART_291 completed (8 run / 0 fail / 287 done / 48 left)
+22-Sep-2018 07:05:16 Sub_BART_296 submitted (9 run / 0 fail / 287 done / 47 left)
+22-Sep-2018 07:05:16 Sub_BART_297 submitted (10 run / 0 fail / 287 done / 46 left)
+..
+22-Sep-2018 07:09:37 Sub_BART_292 completed (9 run / 0 fail / 288 done / 46 left)
+22-Sep-2018 07:09:37 Sub_BART_294 completed (8 run / 0 fail / 289 done / 46 left)
+22-Sep-2018 07:09:37 Sub_BART_298 submitted (9 run / 0 fail / 289 done / 45 left)
+22-Sep-2018 07:09:37 Sub_BART_299 submitted (10 run / 0 fail / 289 done / 44 left)
+22-Sep-2018 07:10:00 Sub_BART_293 completed (9 run / 0 fail / 290 done / 44 left)
+22-Sep-2018 07:10:00 Sub_BART_300 submitted (10 run / 0 fail / 290 done / 43 left)
+.
+22-Sep-2018 07:14:10 Sub_BART_295 completed (9 run / 0 fail / 291 done / 43 left)
+22-Sep-2018 07:14:10 Sub_BART_296 completed (8 run / 0 fail / 292 done / 43 left)
+22-Sep-2018 07:14:10 Sub_BART_301 submitted (9 run / 0 fail / 292 done / 42 left)
+22-Sep-2018 07:14:10 Sub_BART_302 submitted (10 run / 0 fail / 292 done / 41 left)
+22-Sep-2018 07:15:12 Sub_BART_297 completed (9 run / 0 fail / 293 done / 41 left)
+22-Sep-2018 07:15:12 Sub_BART_303 submitted (10 run / 0 fail / 293 done / 40 left)
+.
+22-Sep-2018 07:18:36 Sub_BART_299 completed (9 run / 0 fail / 294 done / 40 left)
+22-Sep-2018 07:18:36 Sub_BART_304 submitted (10 run / 0 fail / 294 done / 39 left)
+22-Sep-2018 07:18:51 Sub_BART_298 completed (9 run / 0 fail / 295 done / 39 left)
+22-Sep-2018 07:18:51 Sub_BART_305 submitted (10 run / 0 fail / 295 done / 38 left)
+22-Sep-2018 07:19:20 Sub_BART_300 completed (9 run / 0 fail / 296 done / 38 left)
+22-Sep-2018 07:19:20 Sub_BART_306 submitted (10 run / 0 fail / 296 done / 37 left)
+..
+22-Sep-2018 07:23:21 Sub_BART_302 completed (9 run / 0 fail / 297 done / 37 left)
+22-Sep-2018 07:23:21 Sub_BART_307 submitted (10 run / 0 fail / 297 done / 36 left)
+22-Sep-2018 07:23:49 Sub_BART_301 completed (9 run / 0 fail / 298 done / 36 left)
+22-Sep-2018 07:23:49 Sub_BART_308 submitted (10 run / 0 fail / 298 done / 35 left)
+22-Sep-2018 07:24:42 Sub_BART_303 completed (9 run / 0 fail / 299 done / 35 left)
+22-Sep-2018 07:24:42 Sub_BART_309 submitted (10 run / 0 fail / 299 done / 34 left)
+..
+22-Sep-2018 07:30:04 Sub_BART_305 completed (9 run / 0 fail / 300 done / 34 left)
+22-Sep-2018 07:30:04 Sub_BART_310 submitted (10 run / 0 fail / 300 done / 33 left)
+22-Sep-2018 07:30:15 Sub_BART_306 completed (9 run / 0 fail / 301 done / 33 left)
+22-Sep-2018 07:30:15 Sub_BART_311 submitted (10 run / 0 fail / 301 done / 32 left)
+22-Sep-2018 07:30:26 Sub_BART_304 completed (9 run / 0 fail / 302 done / 32 left)
+22-Sep-2018 07:30:26 Sub_BART_312 submitted (10 run / 0 fail / 302 done / 31 left)
+.
+22-Sep-2018 07:34:19 Sub_BART_307 completed (9 run / 0 fail / 303 done / 31 left)
+22-Sep-2018 07:34:19 Sub_BART_313 submitted (10 run / 0 fail / 303 done / 30 left)
+22-Sep-2018 07:34:42 Sub_BART_308 completed (9 run / 0 fail / 304 done / 30 left)
+22-Sep-2018 07:34:42 Sub_BART_309 completed (8 run / 0 fail / 305 done / 30 left)
+22-Sep-2018 07:34:42 Sub_BART_314 submitted (9 run / 0 fail / 305 done / 29 left)
+22-Sep-2018 07:34:42 Sub_BART_315 submitted (10 run / 0 fail / 305 done / 28 left)
+..
+22-Sep-2018 07:39:57 Sub_BART_311 completed (9 run / 0 fail / 306 done / 28 left)
+22-Sep-2018 07:39:57 Sub_BART_316 submitted (10 run / 0 fail / 306 done / 27 left)
+22-Sep-2018 07:40:32 Sub_BART_312 completed (9 run / 0 fail / 307 done / 27 left)
+22-Sep-2018 07:40:32 Sub_BART_317 submitted (10 run / 0 fail / 307 done / 26 left)
+.
+22-Sep-2018 07:43:27 Sub_BART_310 completed (9 run / 0 fail / 308 done / 26 left)
+22-Sep-2018 07:43:27 Sub_BART_318 submitted (10 run / 0 fail / 308 done / 25 left)
+.
+.
+22-Sep-2018 07:46:24 Sub_BART_313 completed (9 run / 0 fail / 309 done / 25 left)
+22-Sep-2018 07:46:24 Sub_BART_319 submitted (10 run / 0 fail / 309 done / 24 left)
+22-Sep-2018 07:46:50 Sub_BART_315 completed (9 run / 0 fail / 310 done / 24 left)
+22-Sep-2018 07:46:50 Sub_BART_320 submitted (10 run / 0 fail / 310 done / 23 left)
+22-Sep-2018 07:47:28 Sub_BART_314 completed (9 run / 0 fail / 311 done / 23 left)
+22-Sep-2018 07:47:28 Sub_BART_321 submitted (10 run / 0 fail / 311 done / 22 left)
+..
+22-Sep-2018 07:51:47 Sub_BART_317 completed (9 run / 0 fail / 312 done / 22 left)
+22-Sep-2018 07:51:47 Sub_BART_322 submitted (10 run / 0 fail / 312 done / 21 left)
+22-Sep-2018 07:51:59 Sub_BART_316 completed (9 run / 0 fail / 313 done / 21 left)
+22-Sep-2018 07:51:59 Sub_BART_323 submitted (10 run / 0 fail / 313 done / 20 left)
+.
+22-Sep-2018 07:55:26 Sub_BART_318 completed (9 run / 0 fail / 314 done / 20 left)
+22-Sep-2018 07:55:26 Sub_BART_324 submitted (10 run / 0 fail / 314 done / 19 left)
+22-Sep-2018 07:57:13 Sub_BART_319 completed (9 run / 0 fail / 315 done / 19 left)
+22-Sep-2018 07:57:13 Sub_BART_321 completed (8 run / 0 fail / 316 done / 19 left)
+22-Sep-2018 07:57:13 Sub_BART_325 submitted (9 run / 0 fail / 316 done / 18 left)
+22-Sep-2018 07:57:13 Sub_BART_326 submitted (10 run / 0 fail / 316 done / 17 left)
+22-Sep-2018 07:59:57 Sub_BART_320 completed (9 run / 0 fail / 317 done / 17 left)
+22-Sep-2018 07:59:57 Sub_BART_327 submitted (10 run / 0 fail / 317 done / 16 left)
+.
+22-Sep-2018 08:02:06 Sub_BART_323 completed (9 run / 0 fail / 318 done / 16 left)
+22-Sep-2018 08:02:06 Sub_BART_328 submitted (10 run / 0 fail / 318 done / 15 left)
+22-Sep-2018 08:03:44 Sub_BART_322 completed (9 run / 0 fail / 319 done / 15 left)
+22-Sep-2018 08:03:44 Sub_BART_329 submitted (10 run / 0 fail / 319 done / 14 left)
+22-Sep-2018 08:06:23 Sub_BART_324 completed (9 run / 0 fail / 320 done / 14 left)
+22-Sep-2018 08:06:23 Sub_BART_330 submitted (10 run / 0 fail / 320 done / 13 left)
+22-Sep-2018 08:08:20 Sub_BART_325 completed (9 run / 0 fail / 321 done / 13 left)
+22-Sep-2018 08:08:20 Sub_BART_331 submitted (10 run / 0 fail / 321 done / 12 left)
+22-Sep-2018 08:09:14 Sub_BART_326 completed (9 run / 0 fail / 322 done / 12 left)
+22-Sep-2018 08:09:14 Sub_BART_332 submitted (10 run / 0 fail / 322 done / 11 left)
+.
+22-Sep-2018 08:12:23 Sub_BART_327 completed (9 run / 0 fail / 323 done / 11 left)
+22-Sep-2018 08:12:23 Sub_BART_333 submitted (10 run / 0 fail / 323 done / 10 left)
+.
+22-Sep-2018 08:17:16 Sub_BART_328 completed (9 run / 0 fail / 324 done / 10 left)
+22-Sep-2018 08:17:16 Sub_BART_334 submitted (10 run / 0 fail / 324 done / 9 left)
+22-Sep-2018 08:18:54 Sub_BART_329 completed (9 run / 0 fail / 325 done / 9 left)
+22-Sep-2018 08:18:54 Sub_BART_335 submitted (10 run / 0 fail / 325 done / 8 left)
+.
+22-Sep-2018 08:21:31 Sub_BART_330 completed (9 run / 0 fail / 326 done / 8 left)
+22-Sep-2018 08:21:31 Sub_BART_336 submitted (10 run / 0 fail / 326 done / 7 left)
+22-Sep-2018 08:22:47 Sub_BART_331 completed (9 run / 0 fail / 327 done / 7 left)
+22-Sep-2018 08:22:47 Sub_BART_337 submitted (10 run / 0 fail / 327 done / 6 left)
+22-Sep-2018 08:25:19 Sub_BART_332 completed (9 run / 0 fail / 328 done / 6 left)
+22-Sep-2018 08:25:19 Sub_BART_333 completed (8 run / 0 fail / 329 done / 6 left)
+22-Sep-2018 08:25:19 Sub_BART_338 submitted (9 run / 0 fail / 329 done / 5 left)
+22-Sep-2018 08:25:19 Sub_BART_339 submitted (10 run / 0 fail / 329 done / 4 left)
+22-Sep-2018 08:26:14 Sub_BART_334 completed (9 run / 0 fail / 330 done / 4 left)
+22-Sep-2018 08:26:14 Sub_BART_340 submitted (10 run / 0 fail / 330 done / 3 left)
+.
+22-Sep-2018 08:29:13 Sub_BART_335 completed (9 run / 0 fail / 331 done / 3 left)
+22-Sep-2018 08:29:13 Sub_BART_341 submitted (10 run / 0 fail / 331 done / 2 left)
+..
+22-Sep-2018 08:33:15 Sub_BART_336 completed (9 run / 0 fail / 332 done / 2 left)
+22-Sep-2018 08:33:15 Sub_BART_342 submitted (10 run / 0 fail / 332 done / 1 left)
+22-Sep-2018 08:33:37 Sub_BART_337 completed (9 run / 0 fail / 333 done / 1 left)
+22-Sep-2018 08:33:37 Sub_BART_343 submitted (10 run / 0 fail / 333 done / 0 left)
+22-Sep-2018 08:34:32 Sub_BART_338 completed (9 run / 0 fail / 334 done / 0 left)
+22-Sep-2018 08:34:32 Sub_BART_339 completed (8 run / 0 fail / 335 done / 0 left)
+.......
+22-Sep-2018 08:53:20 Sub_BART_340 completed (7 run / 0 fail / 336 done / 0 left)
+.....
+22-Sep-2018 09:15:56 Sub_BART_341 completed (6 run / 0 fail / 337 done / 0 left)
+......
+22-Sep-2018 09:33:37 Sub_BART_342 completed (5 run / 0 fail / 338 done / 0 left)
+22-Sep-2018 09:33:37 Sub_BART_343 completed (4 run / 0 fail / 339 done / 0 left)
+...........................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+*********************************************
+The processing of the pipeline is terminated.
+See report below for job completion status.
+13-Nov-2018 11:01:37
+*********************************************
+The pipeline manager was interrupted because the .lock file was manually deleted.
+All jobs have been successfully completed.
