@@ -1,0 +1,3 @@
+[submodule "Supplement_analyses"]
+	path = Supplement_analyses
+	url = git@github.com:psychRay/BART_supplement_analyses.git
